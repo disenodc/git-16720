@@ -1,7 +1,7 @@
 # Dentro de GitIgnore armo una lista de objetos a ignorar
 
 # Ignora archivos del sistema Mac
-.DS_store
+.DS_Store
 package-lock.json
 package.json
 #Ignora carpetas
